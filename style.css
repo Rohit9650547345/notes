@@ -57,10 +57,14 @@
 }
 
 @media only screen and (max-width: 540px){
-    nav{
-      margin-top: -10px;
-      height: 60px;
-    }
+	nav{
+		margin-top: -10px;
+      		height: 60px;
+    	}
+	input[type="text"]{
+    		width:200px;
+  	}
+	
 }
 
 /* FOR SEARCH DESIGN*/
